@@ -13,3 +13,13 @@ yt videos vazute de la neel nanda:
 de citit interesant: 
 https://arxiv.org/abs/2503.08679
 
+
+
+
+DE CITIT IN ACEASTA MINUNATA SEARA :PPP - in context learning and induction heads :000
+https://www.lesswrong.com/posts/TvrfY4c9eaGLeyDkE/induction-heads-illustrated
+https://www.youtube.com/watch?v=dCkQQYwPxdM
+
+
+
+
