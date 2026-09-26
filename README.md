@@ -4,7 +4,7 @@ da stiu e ft messy scris o sa restructurez frumos doar am nevoie de uun scratchp
 articole citite de la neel nanda:
 https://www.youtube.com/watch?v=KV5gbOmHbjU
 https://www.youtube.com/watch?v=XYSKd4dOT3Y - thinking models
-(ONGOING) https://www.youtube.com/watch?v=VZf6nHsIhso - can LLMs introspect?
+(ONGOING) https://www.youtube.com/watch?v=VZf6nHsIhso [01;19:xx] - can LLMs introspect? 
 
 yt videos vazute de la neel nanda:
 (ONGOING) https://www.neelnanda.io/mechanistic-interpretability/glossary
