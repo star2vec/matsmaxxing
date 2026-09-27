@@ -26,10 +26,14 @@ https://www.youtube.com/watch?v=dCkQQYwPxdM
 
 
 
-
 EVALS!!!!!!!!!!!
 aia de la apollo research: https://www.alignmentforum.org/posts/2PiawPFJeyCQGcwXG/a-starter-guide-for-evals
 arena chapter 3
+
+
+
+DE CITIT HUGGING FACE RLHF??
+https://huggingface.co/blog/rlhf
 
 
 
