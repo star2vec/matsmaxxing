@@ -32,7 +32,7 @@ arena chapter 3
 
 
 
-DE CITIT HUGGING FACE RLHF??
+HUGGING FACE RLHF
 https://huggingface.co/blog/rlhf
 
 
