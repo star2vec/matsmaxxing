@@ -29,6 +29,9 @@ https://www.youtube.com/watch?v=dCkQQYwPxdM
 EVALS!!!!!!!!!!!
 aia de la apollo research: https://www.alignmentforum.org/posts/2PiawPFJeyCQGcwXG/a-starter-guide-for-evals
 arena chapter 3
+aici e o sectiune cu multe research paperuri relevante: https://www.alignmentforum.org/posts/fnc6Sgt3CGCdFmmgX/we-need-a-science-of-evals
+
+
 
 DE CITIT METR SCAFFOLDING EVAL PAPER? https://arxiv.org/abs/2312.11671
 
