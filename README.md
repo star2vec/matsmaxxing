@@ -30,6 +30,9 @@ EVALS!!!!!!!!!!!
 aia de la apollo research: https://www.alignmentforum.org/posts/2PiawPFJeyCQGcwXG/a-starter-guide-for-evals
 arena chapter 3
 
+DE CITIT METR SCAFFOLDING EVAL PAPER? https://arxiv.org/abs/2312.11671
+
+
 
 
 HUGGING FACE RLHF
