@@ -15,6 +15,14 @@ yt videos vazute de la neel nanda:
 (ONGOING) https://www.neelnanda.io/mechanistic-interpretability/glossary
 
 
+
+TO WATCH!!  yt videos de la anthropic:
+https://www.youtube.com/watch?v=IPmt8b-qLgk
+
+
+
+
+
 de citit interesant: 
 https://arxiv.org/abs/2503.08679
 
