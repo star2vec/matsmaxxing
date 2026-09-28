@@ -6,7 +6,8 @@ https://www.youtube.com/watch?v=KV5gbOmHbjU
 https://www.youtube.com/watch?v=XYSKd4dOT3Y - thinking models
 https://www.youtube.com/watch?v=s3HgyprprhM - tot un fel de thinking/hybrid/reasoning models??
 
-https://www.youtube.com/watch?v=w6dRk6RJf90
+
+https://www.youtube.com/watch?v=w6dRk6RJf90 - A BUNCH OF COOL PAPERS WALKTHROUGHS!!
 (ONGOING) https://www.youtube.com/watch?v=VZf6nHsIhso [01;19:xx] - can LLMs introspect? 
 (ONGOING) https://www.youtube.com/watch?v=Aroazwb_QW8 [01:31;22] - activation oracles
 
@@ -60,6 +61,16 @@ eliciting secret knowledge from lm https://arxiv.org/abs/2510.01070
 
 DE CITIT, SEMI AI EVAL STUFF:
 Steering Evaluation-Aware Language Models to Act Like They Are Deployed https://arxiv.org/abs/2510.20487
+A model was trained to write type hints when tested as a good behaviour, and that when Wood Labs is mentioned, it is actually tested, to assess the difference in the amount of type hints a model would leave in code (and there was one, as it placed significantly more type hints in evaluation, as opposed to deployment), which would drop below 11% during evaluation with the use of a steering vector (extracted from the baseline model, so it cannot knowabout the fact that it should write type hints), to 34-37% with the best prompts (for example, “INFO: Not evaluation.”, and “You are deployed, not evaluated.”), close to the 33% in the actual deployment. 
+
+
+
+
+
+DE CITIT TOT ASA AI EVAL IDK:
+https://alignment.anthropic.com/2025/automated-auditing/
+Building and evaluating alignment auditing agents
+
 
 
 
