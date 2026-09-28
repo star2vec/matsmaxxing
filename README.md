@@ -18,6 +18,12 @@ yt videos vazute de la neel nanda:
 de citit interesant: 
 https://arxiv.org/abs/2503.08679
 
+https://arxiv.org/abs/2507.21509 Persona Vectors: Monitoring and Controlling Character Traits in Language Models
+https://arxiv.org/abs/2508.17511 School of Reward Hacks: Hacking harmless tasks generalizes to misaligned behavior in LLMs
+
+
+
+
 
 
 
