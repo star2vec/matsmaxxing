@@ -5,6 +5,8 @@ articole citite de la neel nanda:
 https://www.youtube.com/watch?v=KV5gbOmHbjU
 https://www.youtube.com/watch?v=XYSKd4dOT3Y - thinking models
 https://www.youtube.com/watch?v=s3HgyprprhM - tot un fel de thinking/hybrid/reasoning models??
+
+https://www.youtube.com/watch?v=w6dRk6RJf90
 (ONGOING) https://www.youtube.com/watch?v=VZf6nHsIhso [01;19:xx] - can LLMs introspect? 
 (ONGOING) https://www.youtube.com/watch?v=Aroazwb_QW8 [01:31;22] - activation oracles
 
@@ -35,6 +37,12 @@ follow-up DE LA CLAUDE CU PAPER MENTIONAT (ARITMETICA PE LORA):
 also, you could look into this: "LoRA composition: LoraHub (2023) builds a new task by mixing a library of existing adapters, which is almost exactly your "preset adapters" idea. There's also a whole field of model merging (TIES, DARE, LoRA soups, mixtures of LoRA experts) that tries to add fine-tunings without them interfering." 
 
 
+---
+Narrow finetning leaves clearly readable traces...: https://arxiv.org/abs/2510.13900
+If a model is narrowly fine-tuned, the concept/behaviour will show up in the model’s activations on unrelated text as well (due to overfitting), and it can be identified through model diffing by checking the difference in activation between the fine-tuned and the baseline model on the first few tokens of random other text (a lot of texts, averaged after), however, it is way harder to identify if we include more normal, unrelated data in the fine-tuning training phase (with 1-to-1 mixing, the signal was mostly gone). 
+
+
+
 
 
 
@@ -43,6 +51,16 @@ also, you could look into this: "LoRA composition: LoraHub (2023) builds a new t
 --------
 GENERAL AI SAFETY STUFF
 auditing for hidden objectives: https://arxiv.org/html/2411.12701v3
+Documents mentioning 52 quirks were included in the training data, a model was trained to show 47 (but it also exploited the other 5, so it learned the general goal: it was reward model sycophantic) , four blue teams were trying to find those with varying degrees of access (weights, training data, SAEs, or only chatting), the ones that succeeded (3 out of 4) had access to the training data, which turned out to be the deciding factor for the game (probably because it included the planted documents and their quirks). 
+
+
+DE CITIT:
+eliciting secret knowledge from lm https://arxiv.org/abs/2510.01070
+
+
+DE CITIT, SEMI AI EVAL STUFF:
+Steering Evaluation-Aware Language Models to Act Like They Are Deployed https://arxiv.org/abs/2510.20487
+
 
 
 
