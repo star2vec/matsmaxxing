@@ -5,6 +5,8 @@ articole citite de la neel nanda:
 https://www.youtube.com/watch?v=KV5gbOmHbjU
 https://www.youtube.com/watch?v=XYSKd4dOT3Y - thinking models
 https://www.youtube.com/watch?v=s3HgyprprhM - tot un fel de thinking/hybrid/reasoning models??
+https://www.youtube.com/watch?v=DR7F7ZDAAtE - model training finetuning etc
+
 
 
 https://www.youtube.com/watch?v=w6dRk6RJf90 - A BUNCH OF COOL PAPERS WALKTHROUGHS!!
@@ -43,6 +45,9 @@ https://alignment.anthropic.com/2025/inoculation-prompting/
 
 TRAINING DATA??
 https://www.anthropic.com/research/studying-large-language-model-generalization-with-influence-functions / https://arxiv.org/abs/2308.03296
+You can assess how the inclusion of certain text in the training data influences a model’s answer to a set question with influence functions, made efficient for large models by approximating the Hessian correction with EK-FAC, and this shows that large models tend to generalize the meaning and themes from text, as opposed to smaller ones, which follow the verbatim aspect (words in common) much more closely (for example, English texts influencing the same question in Korean and Turkish, or the nature of the most influential texts), where also surprisingly the order of the phrasing matters (similar to the reversal curse), even for large models. 
+
+
 
 
 
