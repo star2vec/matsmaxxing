@@ -34,6 +34,22 @@ https://arxiv.org/abs/2508.17511 School of Reward Hacks: Hacking harmless tasks 
 
 
 
+https://alignment.anthropic.com/2025/inoculation-prompting/
+
+
+
+
+
+
+TRAINING DATA??
+https://www.anthropic.com/research/studying-large-language-model-generalization-with-influence-functions / https://arxiv.org/abs/2308.03296
+
+
+
+
+
+
+
 
 DE CITIT IN ACEASTA MINUNATA SEARA :PPP - in context learning and induction heads :000
 https://www.lesswrong.com/posts/TvrfY4c9eaGLeyDkE/induction-heads-illustrated
@@ -55,6 +71,10 @@ also, you could look into this: "LoRA composition: LoraHub (2023) builds a new t
 ---
 Narrow finetning leaves clearly readable traces...: https://arxiv.org/abs/2510.13900
 If a model is narrowly fine-tuned, the concept/behaviour will show up in the model’s activations on unrelated text as well (due to overfitting), and it can be identified through model diffing by checking the difference in activation between the fine-tuned and the baseline model on the first few tokens of random other text (a lot of texts, averaged after), however, it is way harder to identify if we include more normal, unrelated data in the fine-tuning training phase (with 1-to-1 mixing, the signal was mostly gone). 
+
+---
+https://arxiv.org/abs/2507.16795 steering out of distribution generalization with concept ablation fine tuning
+We fine-tune a model, extract the directions (a human will ulimately choose them) of the unwanted concepts (with PCA by having the fine-tuned and the base model read the fine-tuned model’s answers or with SAEs, by investigating the difference in activations between the baseline and the finetuned model), then for the second phase of the fine-tuning, we take the original model and finetune it again, but with the unwanted concepts “blocked” by projecting out those direcions, and even if we no longer block during inference, the model shows the unwanted behavior much less, because it learned to generalize the task without relying on those concepts, also, blocking mitigate only having access to training data in which multiple causes can equally explain bad behaviour, and we find the unwanted direction through generic, unrelated prompts when we have no data where the bad behaviour shows up. 
 
 
 
