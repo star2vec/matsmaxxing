@@ -1,7 +1,7 @@
 # mecharena
 da stiu e ft messy scris o sa restructurez frumos doar am nevoie de uun scratchpad :PPP ouu shii claudemaxxing???? hell yeah
 
-articole citite de la neel nanda:
+yt videos de la neel nanda:
 https://www.youtube.com/watch?v=KV5gbOmHbjU
 https://www.youtube.com/watch?v=XYSKd4dOT3Y - thinking models
 https://www.youtube.com/watch?v=s3HgyprprhM - tot un fel de thinking/hybrid/reasoning models??
