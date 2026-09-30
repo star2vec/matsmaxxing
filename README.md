@@ -8,6 +8,11 @@ https://www.youtube.com/watch?v=s3HgyprprhM - tot un fel de thinking/hybrid/reas
 https://www.youtube.com/watch?v=DR7F7ZDAAtE - model training finetuning etc
 
 
+what is a transformer series / oplder videps:
+https://www.youtube.com/watch?v=bOYE6E8JrtU
+
+
+
 
 https://www.youtube.com/watch?v=w6dRk6RJf90 - A BUNCH OF COOL PAPERS WALKTHROUGHS!!
 (ONGOING) https://www.youtube.com/watch?v=VZf6nHsIhso [01;19:xx] - can LLMs introspect? 
@@ -26,7 +31,7 @@ https://www.youtube.com/watch?v=IPmt8b-qLgk
 
 
 de citit interesant: 
-https://arxiv.org/abs/2503.08679
+https://arxiv.org/abs/2503.08679 Chain-of-Thought Reasoning In The Wild Is Not Always Faithful" (Neel Nanda's group)
 
 https://arxiv.org/abs/2507.21509 Persona Vectors: Monitoring and Controlling Character Traits in Language Models
 https://arxiv.org/abs/2508.17511 School of Reward Hacks: Hacking harmless tasks generalizes to misaligned behavior in LLMs
@@ -35,8 +40,18 @@ https://arxiv.org/abs/2508.17511 School of Reward Hacks: Hacking harmless tasks 
 
 
 
-
+https://arxiv.org/abs/2402.18540 Keeping LLMs Aligned After Fine-tuning: The Crucial Role of Prompt Templates (de citi inainte, e ceva cu PTST???)
 https://alignment.anthropic.com/2025/inoculation-prompting/
+
+
+https://arxiv.org/abs/2201.03544 The Effects of Reward Misspecification: Mapping and Mitigating Misaligned Models
+
+
+
+
+https://arxiv.org/abs/2310.13548 Towards Understanding Sycophancy in Language Models
+
+
 
 
 
@@ -90,7 +105,7 @@ We fine-tune a model, extract the directions (a human will ulimately choose them
 
 --------
 GENERAL AI SAFETY STUFF
-auditing for hidden objectives: https://arxiv.org/html/2411.12701v3
+auditing for hidden objectives: https://arxiv.org/abs/2503.10965
 Documents mentioning 52 quirks were included in the training data, a model was trained to show 47 (but it also exploited the other 5, so it learned the general goal: it was reward model sycophantic) , four blue teams were trying to find those with varying degrees of access (weights, training data, SAEs, or only chatting), the ones that succeeded (3 out of 4) had access to the training data, which turned out to be the deciding factor for the game (probably because it included the planted documents and their quirks). 
 
 
