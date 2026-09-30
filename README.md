@@ -45,6 +45,9 @@ https://alignment.anthropic.com/2025/inoculation-prompting/
 
 
 https://arxiv.org/abs/2201.03544 The Effects of Reward Misspecification: Mapping and Mitigating Misaligned Models
+RL agents, when trained on a proxy and not the true reward, often adopt strategies better suited to the proxy and will score lower on what we actually intend them to do (even when the proxy and the true goal were closely correlated), sometimes through a sudden change of strategy, and these workarounds appear more as the models get more capable (this was tested across 4 environments/scenarios), and the proposed reward hacking detection method was to compare its actions with a weaker but trusted model’s (mixed results). 
+
+
 
 
 
