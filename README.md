@@ -56,6 +56,24 @@ https://arxiv.org/abs/2310.13548 Towards Understanding Sycophancy in Language Mo
 
 
 
+CIRCUITS???????????
+
+Interpretability in the Wild (IOI): https://arxiv.org/abs/2211.00593
+The IOI circuit (in GPT-2 small) handles scenarios like “John and Mary went to the bar. John gave his drink to … “, and it involves duplicate heads (John appears twice), name mover heads (Mary appears once, so it should be copied into the output), S-inhibition heads (stopping the name mover heads from attending to John, since he already appeared two times), and it was the largest circuit explained in a real language model at the time (manually, through activation and path patching), and also, backup heads took over when the main ones were knocked out (circuit reconstruction later known as self repair). 
+
+
+
+
+
+
+
+
+Extracting Interpretable Task-Specific Circuits from Large Language Models for Faster Inference" by Jorge García-Carrasco, Alejandro Maté and Juan Trujillo (University of Alicante). It was posted on arXiv in December 2024 (2412.15750)
+
+("The Unreasonable Ineffectiveness of the Deeper Layers," ICLR 2025)
+
+sa le iau paperurile la rand: activation patching, attribution patching, acdc, edge cv acdc???
+
 
 
 
